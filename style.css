@@ -1,0 +1,33 @@
+.container {
+  padding-bottom: 100px;
+}
+
+.my-btn {
+  Width: 179px;
+  height: 57px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+}
+
+.carousel-indicators li {
+  background-image: linear-gradient( to bottom, orange, yellow);
+}
+
+.card-deck .card, .card-footer {
+  border: none;
+}
+
+#categories .border-bottom {
+  width: 56px;
+  height: 6px;
+  background-image: linear-gradient(90deg, orange, yellow);
+  border-radius: 10px;
+}
+
+#categories img:hover {
+  box-shadow: 10px 20px 30px lightgray;
+}
+
+
